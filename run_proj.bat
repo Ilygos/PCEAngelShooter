@@ -1,0 +1,1 @@
+mednafen\mednafen.exe %1
