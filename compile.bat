@@ -15,5 +15,6 @@ goto Fin
 :Compilc
 bin\huc.exe %1
 bin\pceas.exe -s %NAME:~0,-2%.s  
+del AngelShooter.pce
 ren *.pce AngelShooter.pce
 :Fin     
