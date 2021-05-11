@@ -1,0 +1,36 @@
+Starting Mednafen 0.8.D
+ Loading settings from "D:\Users\Utilisateur\Documents\FRANCOIS\programmation\HUC321\mednafen\mednafen.cfg"...
+ Compiled against SDL 1.2.13, running with SDL 1.2.13
+
+ Initializing joysticks...
+ Loading D:\Users\Utilisateur\Documents\FRANCOIS\programmation\HUC321\exemple4.pce...
+
+  ROM:       72KiB
+  ROM CRC32: 0x97e6f35f
+  ROM MD5:   0xb0e3dd3fb3d291fc7ed4b81e1e9db3a4
+  SuperGrafx Emulation Enabled.
+
+  Loading cheats from D:\Users\Utilisateur\Documents\FRANCOIS\programmation\HUC321\mednafen\cheats\pce.cht...
+   Error opening file: No such file or directory
+
+ Initializing sound...
+  Using "DirectSound" audio driver with device "default":
+   Bits: 16
+   Rate: 48000
+   Channels: 2
+   Byte order: CPU Native
+   Buffer size: 2496 sample frames(52.000000 ms)
+   Latency: 2496 sample frames(52.000000 ms)
+ Initializing video...
+  Video Mode: 960 x 696 x 32 bpp
+  OpenGL: Yes
+   Pixel shader: none
+  Fullscreen: No
+  Special Scaler: None
+  Scanlines: Off
+  Destination Rectangle: X=0, Y=0, W=960, H=696
+  OpenGL Implementation: Intel Intel Bear Lake B 1.4.0 - Build 8.14.10.1930
+  Checking extensions:
+  Using power-of-2 sized textures.
+  Checking maximum texture size...
+   Apparently it is at least: 2048 x 2048
